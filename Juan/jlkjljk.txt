@@ -1,1 +1,2 @@
 fgdfgfd
+git push desde raspberry 
