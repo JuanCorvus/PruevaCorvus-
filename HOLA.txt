@@ -1,1 +1,6 @@
+<<<<<<< HEAD
  Hola Papu
+=======
+Papu
+guapo 
+>>>>>>> 51297819a9cfcd30db806476b816ee80e25aee87
